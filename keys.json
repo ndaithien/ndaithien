@@ -1,0 +1,8 @@
+{
+  "allowed_keys": [
+    "ABC-123",
+    "XYZ-456",
+    "VIP-999"
+  ],
+  "active": true
+}
